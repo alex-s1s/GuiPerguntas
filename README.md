@@ -1,2 +1,2 @@
 # GuiPerguntas
-Guia de pergunstas, utilizando JAvaScript, EJS, NodeJS, MySQL, Sequelize e Express. 
+Guia de perguntas, utilizando JAvaScript, EJS, NodeJS, MySQL, Sequelize e Express. 
